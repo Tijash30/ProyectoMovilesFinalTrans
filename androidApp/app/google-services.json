@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1093899469615",
+    "firebase_url": "https://proyectotransporte-fcee0-default-rtdb.firebaseio.com",
+    "project_id": "proyectotransporte-fcee0",
+    "storage_bucket": "proyectotransporte-fcee0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093899469615:android:b9c6844abdf243e49117da",
+        "android_client_info": {
+          "package_name": "com.example.hardware"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093899469615-2a4gidq7v8vbb7tgiiir0el66p2n8bu0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9lcKLuchk3NRFAhbguAH3lRBQPtGfbfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093899469615-2a4gidq7v8vbb7tgiiir0el66p2n8bu0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1093899469615-6kbl5johhvrnaa8tlg48khljdelbs4mj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "prueba.finalMoviles"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
