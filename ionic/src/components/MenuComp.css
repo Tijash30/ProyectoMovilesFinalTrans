@@ -1,0 +1,49 @@
+#menu{
+    width: 100%;
+    height: 8vh;
+    background-color: rgb(28, 28, 28);
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    bottom: 0px;
+    margin-left: -6rem;
+    /*border-top: solid rgb(89, 0, 0) 3px;*/
+}
+#icones{
+    font-size: 40px;
+    margin-right: 7rem;
+    margin-top: 1.3rem;
+    transition: .7s;
+    color: #007a33;
+}
+#icones:hover{
+    font-size: 46px;
+    color: #007a33b5
+}
+#logout{
+    position: absolute;
+    top: 3rem;
+    right: 3rem;
+    color: #007a33;
+    text-decoration: underline;
+    font-size: 19px;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 950px) {
+
+    #icones{
+        margin-right: 2rem;
+    }
+    #menu{
+        width: 100%;
+        height: 8vh;
+        background-color: rgb(28, 28, 28);
+        display: flex;
+        justify-content: center;
+        position: fixed;
+        bottom: 0px;
+        margin-left: -2rem;
+        /*border-top: solid rgb(89, 0, 0) 3px;*/
+    }
+}
